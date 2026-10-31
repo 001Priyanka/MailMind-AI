@@ -1,0 +1,6 @@
+{
+  "name": "MailMind AI – Intelligent Email Assistant",
+  "description": "AI-powered email analysis, smart categorization, actionable summaries, and automated executive reporting connected via n8n automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
